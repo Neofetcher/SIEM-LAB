@@ -22,5 +22,6 @@ Steps
  - Sign up for a free trial to use Elastic Cloud at https://cloud.elastic.co/registration
  - Start your free trial.
  - Create Deployment
-   ![siem create deployment ](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/4f4129b9-fa38-4cbe-a560-d71fd83c478f)
+
+![siem create deployment ](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/4f4129b9-fa38-4cbe-a560-d71fd83c478f)
    
