@@ -24,4 +24,28 @@ Steps
  - Create Deployment
 
 ![siem create deployment ](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/4f4129b9-fa38-4cbe-a560-d71fd83c478f)
-   
+
+
+ 
+ - Download VirtualBox or VMware 
+ - Download the Kali Linux https://www.kali.org/get-kali/#kali-platforms
+ - Setup your Kali Linux VM
+ - Update your Kali Linux
+
+Setup Elastic 
+
+ - Click on the hamburger menu on the top left, then select +Add Integration at the bottom
+ - In the integration Tab, Search for Elastic Defender and select +Add Elastic Defender
+ - Installing Elastic agent on your host
+ - Copy the commands provided
+ - Open terminal on your Kali VM paste the commands and press enter wait for the installtion to complete.
+
+ 
+ ![kali 1](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/95722f52-6757-4c93-b511-a29efd5ddb17)
+
+ 
+ - To verify if the agent installed correctly run the following command sudo systemctl status elastic-agent.service
+
+ Generate Security Events on the host
+
+ - 
