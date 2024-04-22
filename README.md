@@ -15,7 +15,7 @@ Tools Used
 
  - VirtualBox
  - Kali Linux
- - Elastic Cloud Serice
+ - Elastic Cloud Service
    
 Steps
 
