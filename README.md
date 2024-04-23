@@ -98,4 +98,7 @@ The objective of this SIEM (Security Information and Event Management) lab proje
  - Complete the other settings
  - Finally, click the “Create and enable rule” button to create the alert.
 
+## Disclamer
+This project is intended for educational purposes only. Use responsibly and only with proper authorization on systems you own or have explicit permission to monitor.
+
    
