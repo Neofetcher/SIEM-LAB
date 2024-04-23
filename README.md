@@ -52,14 +52,14 @@ The objective of this SIEM (Security Information and Event Management) lab proje
 
 ![image](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/0ca3b380-27eb-436f-9e9c-fe3a544cf9f8)
 
- - Different nmap commands [ sudo nmap <ip>, sudo nmap -A -p- <ip>, sudo nmap -Ss <ip>, sudo nmap -sT <ip>.
+ - Different nmap commands [ sudo nmap <ip>, sudo nmap -A -p- <ip>, sudo nmap -Ss <ip>, sudo nmap -sT <ip> ]
 
 ![image](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/22cba9e9-cbbb-45ab-8a23-d3f1739b7cef)
 
 ### Querying for Security Events in the Elastic SIEM
 
  - Go to the hamburger menu select logs under the observability section
- - Check the endpoint.events.process, Cick on the menu and select view details
+ - Check the endpoint.events.process, Click on the menu and select view details
 
 ![image](https://github.com/Neofetcher/SIEM-LAB/assets/166114015/0fcb43b5-8c5c-45bc-95c7-c17d613d8652)
 
