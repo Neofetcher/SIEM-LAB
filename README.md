@@ -1,5 +1,5 @@
 # SIEM-LAB
-Elastic Security information and event management Lab Project 
+Security information and event management Lab Project 
 
 ## Objective
 
